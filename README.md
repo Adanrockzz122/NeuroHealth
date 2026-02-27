@@ -1,6 +1,6 @@
 # NeuroHealth Prototype (GSoC 2026 Proposal)
 
-This repository contains a working prototype for **NeuroHealth: AI-Powered Health Assistant**, aligned with the provided project description and architecture diagram.
+This repository contains a working prototype for **NeuroHealth: AI-Powered Health Assistant**, aligned with the provided [project description](https://ucsc-ospo.github.io/project/osre26/nelbl/neurohealth/) and architecture diagram.
 
 ## What is implemented
 
