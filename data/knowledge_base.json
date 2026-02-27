@@ -1,0 +1,44 @@
+[
+  {
+    "id": "kb-fever-001",
+    "title": "Mild Fever Home Monitoring",
+    "content": "For mild fever in adults, hydration, rest, and temperature monitoring are usually recommended. Seek urgent care if fever is high, persistent, or accompanied by breathing difficulty, chest pain, confusion, or dehydration signs.",
+    "source": "MedlinePlus Fever Guidance",
+    "tags": ["fever", "self-care", "triage"]
+  },
+  {
+    "id": "kb-cough-001",
+    "title": "Cough Risk Signals",
+    "content": "A short-term cough without breathing distress is often manageable with fluids and rest. Escalate care for persistent cough with shortness of breath, chest pain, blood in sputum, or high fever.",
+    "source": "Mayo Clinic Cough Basics",
+    "tags": ["cough", "respiratory", "triage"]
+  },
+  {
+    "id": "kb-emergency-001",
+    "title": "Chest Pain and Breathing Distress",
+    "content": "New chest pain, severe shortness of breath, fainting, or neurologic deficits can indicate emergency conditions and require immediate emergency services evaluation.",
+    "source": "Clinical Emergency Red Flags",
+    "tags": ["emergency", "chest pain", "safety"]
+  },
+  {
+    "id": "kb-knee-001",
+    "title": "Knee Pain and Low-Impact Activity",
+    "content": "For mild chronic knee pain, low-impact exercise options include walking, cycling, and swimming. Weight management and adequate protein intake can support joint function while reducing mechanical load.",
+    "source": "Arthritis Foundation Lifestyle Recommendations",
+    "tags": ["knee pain", "exercise", "nutrition"]
+  },
+  {
+    "id": "kb-nutrition-001",
+    "title": "Vegetarian Weight Management Principles",
+    "content": "A calorie deficit with sufficient protein supports healthy weight reduction. Vegetarian protein sources include lentils, beans, tofu, tempeh, and dairy alternatives fortified with calcium and vitamin D.",
+    "source": "WHO Healthy Diet Summary",
+    "tags": ["nutrition", "vegetarian", "weight management"]
+  },
+  {
+    "id": "kb-appointment-001",
+    "title": "Appointment Routing Guidelines",
+    "content": "Emergency risk requires immediate emergency services. Urgent but stable concerns should receive same-day urgent care. Routine concerns can be seen in primary care within days, with telemedicine as an initial triage option.",
+    "source": "Primary Care Triage Best Practices",
+    "tags": ["appointment", "triage", "workflow"]
+  }
+]
